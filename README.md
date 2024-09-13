@@ -1,4 +1,4 @@
-👋 Hi, I’m @Farrukhy
+#👋 Hi, I’m @Farrukhy
 👀 I’m interested in Artificial Intelligence and autonomous drones, with plans to focus on control engineering and navigation in the future.
 🌱 I’m currently learning AI through hands-on projects like those on Kaggle, as a foundational step toward building autonomous drones.
 💞️ I’m looking to collaborate on projects related to AI, autonomous drones, and related technologies.
